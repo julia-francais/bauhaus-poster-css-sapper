@@ -14,6 +14,7 @@
   }
 
   a {
+    font-weight: 800;
     text-decoration: none;
     text-transform: uppercase;
   }
@@ -27,5 +28,6 @@
     <li><a href="/exo4">Exo4</a></li>
     <li><a href="/exo5">Exo5</a></li>
     <li><a href="/exo6">Exo6</a></li>
+    <li><a href="/exo7">Exo7</a></li>
   </ul>
 </nav>
